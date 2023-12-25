@@ -1,2 +1,1 @@
-# tutorial-developing-a-restful-api-with-go-and-gin
-Tutorial: Developing a RESTful API with Go and Gin
+# Tutorial: Developing a RESTful API with Go and Gin
